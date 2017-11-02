@@ -29,3 +29,9 @@ Scipy 0.19.0
 ## Example image (from gulfStreamSST_snaphot.py):
 
 ![alt text](https://github.com/TomBolton/visualiseGulfStream/blob/master/gulfStreamSST.png  "Gulf Stream Sea-Surface Temperature")
+
+## Data sources
+
+Sea surface temperature data: https://www.ghrsst.org/ or https://podaac.jpl.nasa.gov/GHRSST.
+
+Absolute dynamic topography and geostrophic surface velocity data: https://www.aviso.altimetry.fr/en/my-aviso.html.
