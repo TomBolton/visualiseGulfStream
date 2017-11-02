@@ -1,5 +1,5 @@
 # This script takes absolute dynamic topography (ADT) satellite altimetry data from
-# the Gulf Stream region, and produces some nice visualizations of the data.
+# the Gulf Stream region, and produces an animation from the daily 2D snapshots.
 
 import matplotlib
 matplotlib.use("Agg")
