@@ -28,4 +28,4 @@ Scipy 0.19.0
 
 ## Example image (from gulfStreamSST_snaphot.py):
 
-![alt text](visualiseGulfStream/gulfStreamSST.png  "Gulf Stream Sea-Surface Temperature")
+![alt text](https://github.com/TomBolton/visualiseGulfStream/blob/master/gulfStreamSST.png  "Gulf Stream Sea-Surface Temperature")
