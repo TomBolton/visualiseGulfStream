@@ -17,7 +17,15 @@ gulfStream3D.py -> generates Figure 3.
 ## Dependencies:
 
 Python 2.7.13
+
 Matplotlib 2.0.0
+
 Pandas 0.19.2
+
 Basemap 1.0.7
+
 Scipy 0.19.0
+
+## Example image (from gulfStreamSST_snaphot.py):
+
+![alt text](visualiseGulfStream/gulfStreamSST.png  "Gulf Stream Sea-Surface Temperature")
